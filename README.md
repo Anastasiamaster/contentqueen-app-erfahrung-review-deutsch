@@ -1,5 +1,6 @@
 # Contentqueen App: Der ultimative KI-Content-Generator für Marketer & Creators
 
+
 Es ist 23:42 Uhr an einem Dienstagabend. Dein Bildschirm leuchtet hell in der Dunkelheit und wirft ein kaltes, weißes Licht auf deinen Schreibtisch. Vor dir liegt ein völlig leeres Dokument. Der Cursor blinkt unaufhörlich – fast schon spöttisch – oben links auf der Seite.
 
 Morgen früh soll deine neue Marketingkampagne online gehen. Dein Facebook-Werbekonto braucht dringend drei neue Anzeigentexte. Deine E-Mail-Abonnenten warten auf den nächsten Newsletter, und deine Social-Media-Kanäle schreien nach frischem Content. Doch nach einem langen Tag voller Meetings, Datenanalysen und operativem Tagesgeschäft ist dein Kopf völlig leer. Die kreative Quelle ist komplett versiegt.
